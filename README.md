@@ -1,2 +1,2 @@
-# Penetration-Testing_python
+# Penetration-Testing-Python
 Scripts from python for Penetration Testing 
